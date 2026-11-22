@@ -1,106 +1,102 @@
- 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090909,50:260B12,100:090909&height=240&section=header&text=Layan&fontSize=90&fontColor=D8C5C7&fontAlignY=40&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%20%7C%20%20CYBERSECURITY&descSize=15&descColor=B58B91&descAlignY=65" width="100%" />
+</p>
+
 <p align="center">
-  <a href="https://github.com/Layan">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:8B0000&height=220&section=header&text=Layan&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20Student%20%C2%B7%20Cybersecurity&descSize=20&descAlignY=65" width="100%" alt="Layan - Computer Science Student" />
-  </a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2500&pause=1200&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=850&height=60&lines=%3E+exploring+the+digital+world.;%3E+learning+cybersecurity.;%3E+building+secure+solutions." width="100%" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3500&pause=1800&color=B58B91&center=true&vCenter=true&width=700&height=55&lines=lost+somewhere+between+code+and+curiosity.;studying+the+art+of+digital+security.;creating+something+out+of+the+ordinary." />
+</p>
+
+<p align="center">
+  ☾ &nbsp; ─────── ⋆⋅☆⋅⋆ ─────── &nbsp; ☽
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-260B12?style=for-the-badge&logo=linkedin&logoColor=D8C5C7" />
   </a>
   <a href="https://github.com/Layan">
-    <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-260B12?style=for-the-badge&logo=github&logoColor=D8C5C7" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-ECBDD8?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Cybersecurity-ECBDD8?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Software%20Development-ECBDD8?style=for-the-badge&labelColor=0A0A0A" />
-</p>
-
-## 🧬 about me
+## 🥀 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
 
 ```python
-me = {
-    "name": "Layan",
-    "role": "Computer Science Student",
-    "university": "King Abdulaziz University",
-    "interests": [
-        "Cybersecurity",
-        "Software Development",
-        "Technology"
-    ],
-    "currently_learning": [
-        "Cybersecurity",
-        "Linux",
-        "Cloud Computing"
-    ],
-    "languages": ["Arabic", "English"],
-}
+class Layan:
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.university = "King Abdulaziz University"
+
+        self.interests = [
+            "Cybersecurity",
+            "Artificial intelligence",
+            "Software Development",
+            "Digital Security",
+        ]
+
+        self.exploring = [
+            "Linux",
+            "Cloud Computing",
+            "Computer Networks",
+        ]
+
+        self.languages = ["Arabic", "English"]
+
+    def motto(self):
+        return "Curiosity is a beautiful thing."
 ```
 
-I'm a Computer Science student interested in understanding how technology works, building practical software solutions, and exploring the world of cybersecurity.
+A Computer Science student with an interest in the darker corners of technology: cybersecurity, software development, and understanding what happens beneath the surface.
 
-I enjoy working on projects that combine problem-solving, software development, and technical research.
+I enjoy solving problems, exploring new technologies, and turning ideas into practical projects.
 
-## 💻 areas of interest
+## 🕯️ 𝔞𝔯𝔱𝔢𝔣𝔞𝔠𝔱𝔰 𝔬𝔣 𝔪𝔶 𝔴𝔬𝔯𝔨
 
-- 🔐 Cybersecurity & Information Security
-- 💻 Software Development
-- 🌐 Web Technologies
-- ☁️ Cloud Computing
-- 🐧 Linux & Networking
+### 🦇 ECHO
+**Evidence-Based Accessibility Assessment and Verification**
 
-## 🚀 featured projects
+An Arabic RTL web accessibility auditing system designed to identify accessibility issues and examine their impact on screen-reader output.
 
-### 🩸 ECHO – Evidence-Based Accessibility Assessment and Verification
+Combines rule-based detection, Case-Based Reasoning (CBR), and NVDA verification.
 
-An accessibility auditing system focused on Arabic and Right-to-Left (RTL) websites.
-
-ECHO aims to identify accessibility issues and evaluate their actual impact on screen-reader output using rule-based detection, Case-Based Reasoning (CBR), and NVDA verification.
-
-**Technologies:**
 `Python` `Playwright` `Chrome` `NVDA` `PostgreSQL`
 
 ---
 
-### ☁️ Data Pipeline & AI Integration Project
+### 🕸️ Data Pipeline & AI Integration
 
-A data engineering workflow designed to extract, process, clean, and organize information from PDF documents for downstream AI applications.
+A data engineering workflow focused on extracting, cleaning, processing, and organizing information from PDF documents for downstream AI applications.
 
-The project focuses on building a structured data pipeline and preparing extracted content for retrieval-based workflows.
-
-**Technologies:**
 `Python` `PostgreSQL` `Docker` `ChromaDB`
 
 ---
 
-## 🧰 tech stack
+## 🗝️ 𝔪𝔶 𝔱𝔬𝔬𝔩𝔰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,docker,git,github,linux,vscode&perline=6&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,docker,git,github,linux,vscode&theme=dark&perline=6" />
 </p>
 
-## 🌱 currently exploring
+## 🥀 𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤
 
-- Cybersecurity fundamentals
-- Linux and networking
-- Secure software development
+- Cybersecurity and information security
+- Linux and computer networks
+- Software development
 - Cloud technologies
 
 <p align="center">
-  <b>Always learning. Always building. Always exploring.</b>
+  <br/>
+  <i>"There is beauty in understanding what others overlook."</i>
+  <br/><br/>
+  ☾ &nbsp; ⋆｡°✩ &nbsp; 🦇 &nbsp; ✩°｡⋆ &nbsp; ☽
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
-    <img src="https://img.shields.io/badge/Connect%20with%20me-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/Find%20me%20in%20the%20shadows-260B12?style=for-the-badge&logo=linkedin&logoColor=D8C5C7" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8B0000,100:0A0A0A&height=100&section=footer&text=into%20the%20unknown.&fontSize=28&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Into the unknown" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090909,50:260B12,100:090909&height=110&section=footer&text=𝔪𝔢𝔪𝔢𝔫𝔱𝔬%20𝔪𝔬𝔯𝔦&fontSize=30&fontColor=B58B91" width="100%" />
 </p>
