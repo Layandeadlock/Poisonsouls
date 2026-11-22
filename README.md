@@ -1,43 +1,38 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090909,50:260B12,100:090909&height=240&section=header&text=Layan&fontSize=90&fontColor=D8C5C7&fontAlignY=40&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%20%7C%20%20CYBERSECURITY&descSize=15&descColor=B58B91&descAlignY=65" width="100%" />
+  <img src="./banner.png" width="100%" alt="Layan - Victorian Gothic Profile Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=3500&pause=1800&color=B58B91&center=true&vCenter=true&width=700&height=55&lines=lost+somewhere+between+code+and+curiosity.;studying+the+art+of+digital+security.;creating+something+out+of+the+ordinary." />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=3500&pause=1800&color=A52A3A&center=true&vCenter=true&width=750&height=55&lines=curiosity+is+a+beautiful+thing.;exploring+the+art+of+cybersecurity.;building+something+beyond+the+ordinary." alt="Typing introduction" />
 </p>
 
 <p align="center">
-  ☾ &nbsp; ─────── ⋆⋅☆⋅⋆ ─────── &nbsp; ☽
+  ☾ ───────────── ⋆⋅☆⋅⋆ ───────────── ☽
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
-    <img src="https://img.shields.io/badge/LinkedIn-260B12?style=for-the-badge&logo=linkedin&logoColor=D8C5C7" />
+    <img src="https://img.shields.io/badge/LinkedIn-570D19?style=for-the-badge&logo=linkedin&logoColor=D8C5C7" />
   </a>
   <a href="https://github.com/Layan">
-    <img src="https://img.shields.io/badge/GitHub-260B12?style=for-the-badge&logo=github&logoColor=D8C5C7" />
+    <img src="https://img.shields.io/badge/GitHub-570D19?style=for-the-badge&logo=github&logoColor=D8C5C7" />
   </a>
 </p>
 
-## 🥀 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
+##  𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
 
 ```python
 class Layan:
     def __init__(self):
+        self.name = "Layan"
         self.role = "Computer Science Student"
         self.university = "King Abdulaziz University"
 
         self.interests = [
             "Cybersecurity",
-            "Artificial intelligence",
+            "artificial intelligence",
             "Software Development",
-            "Digital Security",
-        ]
-
-        self.exploring = [
-            "Linux",
-            "Cloud Computing",
-            "Computer Networks",
+            "Technology",
         ]
 
         self.languages = ["Arabic", "English"]
@@ -46,57 +41,79 @@ class Layan:
         return "Curiosity is a beautiful thing."
 ```
 
-A Computer Science student with an interest in the darker corners of technology: cybersecurity, software development, and understanding what happens beneath the surface.
+A Computer Science student fascinated by technology, cybersecurity, and the art of building software.
 
-I enjoy solving problems, exploring new technologies, and turning ideas into practical projects.
+I enjoy exploring how systems work, understanding digital security, solving technical problems, and turning ideas into practical projects.
 
-## 🕯️ 𝔞𝔯𝔱𝔢𝔣𝔞𝔠𝔱𝔰 𝔬𝔣 𝔪𝔶 𝔴𝔬𝔯𝔨
 
-### 🦇 ECHO
+##  𝔪𝔶 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔰
+
+-  Cybersecurity & Information Security
+-  Software Development
+-  Computer Networks
+-  Linux & Operating Systems
+-  Cloud Computing
+
+##  𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔡 𝔭𝔯𝔬𝔧𝔢𝔠𝔱𝔰
+
+###  ECHO
 **Evidence-Based Accessibility Assessment and Verification**
 
-An Arabic RTL web accessibility auditing system designed to identify accessibility issues and examine their impact on screen-reader output.
+An accessibility auditing system focused on Arabic and Right-to-Left (RTL) websites.
 
-Combines rule-based detection, Case-Based Reasoning (CBR), and NVDA verification.
+ECHO combines rule-based detection and Case-Based Reasoning (CBR) to identify accessibility issues and investigate their actual impact on screen-reader output through NVDA verification.
+
+**Technologies**
 
 `Python` `Playwright` `Chrome` `NVDA` `PostgreSQL`
 
 ---
 
-### 🕸️ Data Pipeline & AI Integration
+###  Data Pipeline & AI Integration
 
-A data engineering workflow focused on extracting, cleaning, processing, and organizing information from PDF documents for downstream AI applications.
+A data engineering workflow designed to extract, clean, process, and organize information from PDF documents for downstream AI applications.
+
+The project focuses on structured data processing and preparing extracted content for retrieval-based workflows.
+
+**Technologies**
 
 `Python` `PostgreSQL` `Docker` `ChromaDB`
 
----
-
-## 🗝️ 𝔪𝔶 𝔱𝔬𝔬𝔩𝔰
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,docker,git,github,linux,vscode&theme=dark&perline=6" />
+  🦇 ───────────── ☾ ───────────── 🦇
 </p>
 
-## 🥀 𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤
+##  𝔪𝔶 𝔱𝔬𝔬𝔩𝔰
 
-- Cybersecurity and information security
-- Linux and computer networks
-- Software development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,docker,git,github,linux,vscode&theme=dark&perline=6" alt="Technology icons" />
+</p>
+
+##  𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤
+
+- Cybersecurity fundamentals
+- Linux and networking
+- Secure software development
 - Cloud technologies
 
 <p align="center">
-  <br/>
-  <i>"There is beauty in understanding what others overlook."</i>
-  <br/><br/>
-  ☾ &nbsp; ⋆｡°✩ &nbsp; 🦇 &nbsp; ✩°｡⋆ &nbsp; ☽
+  ☾ ───────────── ⋆⋅☆⋅⋆ ───────────── ☽
 </p>
+
+##  𝔠𝔬𝔫𝔫𝔢𝔠𝔱 𝔴𝔦𝔱𝔥 𝔪𝔢
 
 <p align="center">
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
-    <img src="https://img.shields.io/badge/Find%20me%20in%20the%20shadows-260B12?style=for-the-badge&logo=linkedin&logoColor=D8C5C7" />
+    <img src="https://img.shields.io/badge/Find%20me%20on%20LinkedIn-570D19?style=for-the-badge&logo=linkedin&logoColor=D8C5C7" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090909,50:260B12,100:090909&height=110&section=footer&text=𝔪𝔢𝔪𝔢𝔫𝔱𝔬%20𝔪𝔬𝔯𝔦&fontSize=30&fontColor=B58B91" width="100%" />
+  <i>"There is beauty in understanding what others overlook."</i>
+</p>
+
+
+
+<p align="center">
+  <sub>𝔪𝔢𝔪𝔢𝔫𝔱𝔬 𝔪𝔬𝔯𝔦</sub>
 </p>
