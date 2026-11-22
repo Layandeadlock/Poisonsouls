@@ -109,10 +109,3 @@ The project focuses on structured data processing and preparing extracted conten
   </a>
 </p>
 
-<p align="center">
-  <i>There is beauty in understanding what others overlook.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:65000B,50:180005,100:000000&height=110&section=footer&text=memento%20mori&fontSize=32&fontColor=D8C5C7&fontAlignY=55" width="100%" />
-</p>
